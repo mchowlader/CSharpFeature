@@ -1,0 +1,16 @@
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.exe
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.deps.json
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.runtimeconfig.json
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.runtimeconfig.dev.json
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.dll
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\ref\DefaultInterfaceMethod.dll
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\bin\Debug\net5.0\DefaultInterfaceMethod.pdb
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.csproj.AssemblyReference.cache
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.AssemblyInfoInputs.cache
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.AssemblyInfo.cs
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.csproj.CoreCompileInputs.cache
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.dll
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\ref\DefaultInterfaceMethod.dll
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.pdb
+D:\Logic\CSharpFeature\CsharpFeature\DefaultInterfaceMethod\obj\Debug\net5.0\DefaultInterfaceMethod.genruntimeconfig.cache

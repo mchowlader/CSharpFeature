@@ -1,0 +1,16 @@
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.exe
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.deps.json
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.runtimeconfig.json
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.runtimeconfig.dev.json
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.dll
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\ref\NullableRefTypes.dll
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\bin\Debug\net5.0\NullableRefTypes.pdb
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.csproj.AssemblyReference.cache
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.AssemblyInfoInputs.cache
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.AssemblyInfo.cs
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.csproj.CoreCompileInputs.cache
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.dll
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\ref\NullableRefTypes.dll
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.pdb
+D:\Logic\CSharpFeature\CsharpFeature\Feature_8\NullableRefTypes\obj\Debug\net5.0\NullableRefTypes.genruntimeconfig.cache
